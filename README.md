@@ -1,6 +1,6 @@
-# OpenRTiST: Real-Time Style Transfer
+# Super-Resolution (based on OpenRTiST: Real-Time Style Transfer)
 
-OpenRTiST utilizes Gabriel, a platform for wearable cognitive assistance applications, to transform the live video from a mobile client into the styles of various artworks. The frames are streamed to a server where the chosen style is applied and the transformed images are returned to the client.
+OpenRTiST utilizes Gabriel, a platform for wearable cognitive assistance applications, to transform the live video from a mobile client into the styles of various artworks. The frames are streamed to a server where the chosen style is applied and the transformed images are returned to the client. This repository uses the OpenRTiST framework to run super-resolution GANs on an android live video feed.
 
 Copyright &copy; 2017-2019
 Carnegie Mellon University
